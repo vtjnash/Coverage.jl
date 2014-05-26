@@ -29,6 +29,7 @@ If you make it through that, consider adding your package to the list below. Alt
 * [DASSL.jl](https://github.com/pwl/DASSL.jl/blob/master/.travis.yml)
 * [DataFrames.jl](https://github.com/JuliaStats/DataFrames.jl/blob/master/.travis.yml)
 * [DSP.jl](https://github.com/JuliaDSP/DSP.jl/blob/master/.travis.yml)
+* [Glob](https://github.com/vtjnash/Glob.jl/blob/master/.travis.yml)
 * [Gadfly](https://github.com/dcjones/Gadfly.jl/blob/master/.travis.yml)
 * [Homebrew.jl](https://github.com/JuliaLang/Homebrew.jl/blob/master/.travis.yml)
 * [HttpParser.jl](https://github.com/JuliaLang/HttpParser.jl/blob/master/.travis.yml)
